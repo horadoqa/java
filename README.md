@@ -1,5 +1,9 @@
 # [![JAVA](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=JAVA)](https://git.io/typing-svg)
 
+<div align="center">
+<img src="./images/java.avif">
+</div>
+
 Java é uma linguagem de programação orientada a objetos, desenvolvida pela Sun Microsystems (atualmente propriedade da Oracle), e amplamente utilizada para criar aplicativos móveis, web, de desktop e sistemas empresariais.
 
 Que ótimo que você quer aprender Java! 
@@ -78,4 +82,4 @@ Não hesite em procurar ajuda e aprender com outros programadores. Algumas boas 
 Com essas etapas, você estará no caminho certo para se tornar um programador Java. 
 Boa sorte, e não se esqueça de praticar constantemente!
 
-Criando o seu primeiro código com Java...[Hello](hello.md)
+Próximo passo... [Entendendo sobre estruturas](./docs/estruturas.md)
