@@ -78,4 +78,4 @@ projetos✗ tree
 
 Se você está começando com Java, pode começar com o projeto **HelloWorld**. Clique no link abaixo para saber mais sobre como criar e executar seu primeiro programa Java:
 
-[Criando o seu primeiro código com Java: HelloWorld](./projetos/hello/hello.md)
+[Criando o seu primeiro código com Java: HelloWorld](./codigo.md)

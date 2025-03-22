@@ -41,3 +41,5 @@ public class HelloWorld {  // O nome da classe deve ser igual ao nome do arquivo
 ## Próximos Passos
 
 Agora que você criou seu primeiro programa Java, você pode precisa compilar. Para aprender sobre a compilação em mais detalhes, confira a [documentação de compilação](complicao.md).
+
+[Conheça os projetos](../projetos/)
