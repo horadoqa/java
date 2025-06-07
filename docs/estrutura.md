@@ -1,10 +1,8 @@
 # Estruturas de Projeto em Java
 
-## Estrutura Básica do Arquivo `.java`
-
 Um arquivo `.java` contém o código fonte de uma classe. Abaixo está a estrutura básica de um arquivo `.java` com o exemplo de um simples "Olá, Mundo!".
 
-### Exemplo de Arquivo `HelloWorld.java`
+## Exemplo de Arquivo `HelloWorld.java`
 
 ```java
 // 1. Importação de pacotes (opcional)
@@ -21,7 +19,7 @@ public class HelloWorld {  // O nome da classe deve ser igual ao nome do arquivo
 }
 ```
 
-### Explicação do Código:
+## Explicação do Código:
 
 1. **Importação de Pacotes**:
    - `import java.util.Scanner;`: A linha de importação permite que você utilize a classe `Scanner` do pacote `java.util`, que serve para ler dados do usuário (não é necessário neste exemplo específico, mas é útil para programas interativos).
@@ -43,7 +41,7 @@ public class HelloWorld {  // O nome da classe deve ser igual ao nome do arquivo
 
 Abaixo está um exemplo de como um projeto Java pode ser organizado em um diretório. O código fonte de cada classe está dentro de pastas correspondentes ao seu pacote, e cada pasta contém os arquivos `.java` e `.class` gerados após a compilação.
 
-### Exemplo de Estrutura de Diretórios:
+## Exemplo de Estrutura de Diretórios:
 
 ```bash
 projetos✗ tree
@@ -60,7 +58,7 @@ projetos✗ tree
 2 directories, 6 files
 ```
 
-### Explicação da Estrutura de Diretórios:
+## Explicação da Estrutura de Diretórios:
 
 - **Pasta `hello`**:
   - Contém o código fonte e o bytecode da classe `HelloWorld`.

@@ -149,4 +149,4 @@ Não hesite em procurar ajuda e aprender com outros programadores. Algumas boas 
 Com essas etapas, você estará no caminho certo para se tornar um programador Java. 
 Boa sorte, e não se esqueça de praticar constantemente!
 
-Próximo passo... [Entendendo sobre estruturas](./docs/estruturas.md)
+Próximo passo... [Entendendo sobre a estrutura do JAVA](./docs/estrutura.md)
