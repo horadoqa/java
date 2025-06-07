@@ -14,18 +14,4 @@ Após criar o arquivo `HelloWorld.java`, o próximo passo é compilá-lo e gerar
 
 > **Nota:** O `javac` é o compilador do Java, e ele converte o código-fonte `.java` em bytecode `.class`.
 
-- **Executando o código**:
-
-  Após a compilação, para rodar o programa, execute o seguinte comando:
-
-  ```bash
-  java hello.HelloWorld
-  ```
-
-  Este comando irá executar o bytecode gerado pela JVM e você verá a saída:
-
-  ```
-  Olá, Mundo!
-  ```
-
-[Conheça os projetos](../projetos/)
+Próximo passo... [Executando o seu primeiro código com Java: HelloWorld](execucao.md)
