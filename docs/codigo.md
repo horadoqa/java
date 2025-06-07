@@ -38,7 +38,7 @@ public class HelloWorld {  // O nome da classe deve ser igual ao nome do arquivo
 4. **Exibição de Mensagem**:
    - `System.out.println("Olá, Mundo!");`: Este comando imprime a mensagem "Olá, Mundo!" no console. O `println` garante que a mensagem será seguida por uma quebra de linha.
 
-## Próximos Passos
+📥 **Próximo passo**:
 
 Agora que você criou seu primeiro programa Java, você pode precisa compilar. Para aprender sobre a compilação em mais detalhes, confira a [documentação de compilação](compilacao.md).
 

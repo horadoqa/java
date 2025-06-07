@@ -1,6 +1,8 @@
 # Estruturas de Projeto em Java
 
-Um arquivo `.java` contém o código fonte de uma classe. Abaixo está a estrutura básica de um arquivo `.java` com o exemplo de um simples "Olá, Mundo!".
+Um arquivo `.java` contém o código fonte de uma classe. 
+
+Abaixo está a estrutura básica de um arquivo `.java` com o exemplo de um simples "Olá, Mundo!".
 
 ## Exemplo de Arquivo `HelloWorld.java`
 
@@ -50,12 +52,6 @@ projetos✗ tree
 │   ├── HelloWorld.class   # Arquivo compilado (bytecode) da classe HelloWorld
 │   ├── HelloWorld.java    # Arquivo fonte (.java) da classe HelloWorld
 │   └── hello.md           # Documentação adicional do projeto HelloWorld
-└── variaveis
-    ├── ExemploVariavel.class  # Arquivo compilado da classe ExemploVariavel
-    ├── ExemploVariavel.java   # Arquivo fonte (.java) da classe ExemploVariavel
-    └── variaveis.md           # Documentação adicional do projeto ExemploVariavel
-
-2 directories, 6 files
 ```
 
 ## Explicação da Estrutura de Diretórios:
@@ -76,4 +72,4 @@ projetos✗ tree
 
 Se você está começando com Java, pode começar com o projeto **HelloWorld**. Clique no link abaixo para saber mais sobre como criar e executar seu primeiro programa Java:
 
-Próximo passo... [Criando o seu primeiro código com Java: HelloWorld](codigo.md)
+📥 **Próximo passo**:[Criando o seu primeiro código com Java: HelloWorld](codigo.md)
