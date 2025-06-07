@@ -3,7 +3,7 @@ package variaveis;
 public class ExemploVariavel {
     public static void main(String[] args) {
         // Declaração e inicialização de variáveis
-        int idade = 55;
+        int idade = 54;
         double altura = 1.87;
         String nome = "Ricardo Fahham";
         

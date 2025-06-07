@@ -9,13 +9,21 @@ Para criar e executar o seu código Java, siga esses passos. Vou te guiar pelo p
 2. **Crie um novo arquivo** com o nome `HelloWorld.java` (o nome do arquivo deve ser o mesmo que o nome da classe pública).
 
 3. **Escreva o código Java** que você já tem:
-    ```java
-    public class HelloWorld {
-        public static void main(String[] args) {
-            System.out.println("Olá, Mundo!");
-        }
+
+```java
+// 1. Declaração do pacote (opcional, mas recomendada)
+package hello; // Definindo o pacote 'hello' para a classe
+
+// 2. Declaração da classe HelloWorld
+public class HelloWorld {  // O nome da classe deve ser igual ao nome do arquivo (.java)
+
+    // 3. Método principal (ponto de entrada do programa)
+    public static void main(String[] args) {
+        // 4. Exibindo uma mensagem no console
+        System.out.println("Olá, Mundo!");  // Exibe a mensagem "Olá, Mundo!" no console
     }
-    ```
+}
+```
 
 4. **Salve o arquivo** com a extensão `.java` (certifique-se de que o arquivo seja salvo como `HelloWorld.java` e não como `HelloWorld.txt`).
 
