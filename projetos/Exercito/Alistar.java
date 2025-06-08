@@ -1,7 +1,7 @@
 package Exercito;
 import java.util.Scanner; // Importando a classe Scanner
 
-public class Exercito {
+public class Alistar {
     public static void main(String[] args) {
         // Criando o objeto Scanner para ler a entrada do usuário
         Scanner scanner = new Scanner(System.in);

@@ -1,4 +1,4 @@
-# Estruturas de Projeto em Java
+# Estrutura de um projeto em Java
 
 Um arquivo `.java` contém o código fonte de uma classe. 
 
@@ -43,7 +43,7 @@ public class HelloWorld {  // O nome da classe deve ser igual ao nome do arquivo
 
 Abaixo está um exemplo de como um projeto Java pode ser organizado em um diretório. O código fonte de cada classe está dentro de pastas correspondentes ao seu pacote, e cada pasta contém os arquivos `.java` e `.class` gerados após a compilação.
 
-## Exemplo de Estrutura de Diretórios:
+## Exemplo de Estrutura de Diretório:
 
 ```bash
 projetos✗ tree

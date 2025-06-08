@@ -1,6 +1,8 @@
 package operacoes;
-public class operacoes {
+
+public class Matematicas {
     public static void main(String[] args) {
+        
         // Declaração e inicialização de variáveis
         String nome = "Operações Matemáticas";
         

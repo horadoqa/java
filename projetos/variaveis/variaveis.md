@@ -93,4 +93,4 @@ public class Constante {
 - **Uso:** Você pode usar as variáveis para fazer cálculos, imprimir valores ou em qualquer outro lugar dentro do seu código.
 - **Alteração:** Você pode modificar o valor de variáveis, mas não de constantes (`final`).
 
-Esses são os conceitos básicos de declaração e uso de variáveis em Java. Se precisar de mais exemplos ou ajuda, me avise!
+Esses são os conceitos básicos de declaração e uso de variáveis em Java.
