@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "Ricardo Fahham",
+    "idade": 54,
+    "altura": 1.87,
+    "peso": 105,
+    "imc": 30.026594984128796,
+    "classificacao": "Obesidade"
+  },
+  {
+    "nome": "Alessandra Miranda",
+    "idade": 51,
+    "altura": 1.67,
+    "peso": 74,
+    "imc": 26.533758829646096,
+    "classificacao": "Sobrepeso"
+  }
+]

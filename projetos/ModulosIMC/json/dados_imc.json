@@ -1,0 +1,17 @@
+[{
+  "nome": "Ricardo Fahham",
+  "idade": 54,
+  "altura": 1.87,
+  "peso": 105,
+  "imc": 30.03,
+  "classificacao": "Obesidade"
+},
+{
+  "nome": "Alessanda Miranda",
+  "idade": 51,
+  "altura": 1.75,
+  "peso": 74,
+  "imc": 24.16,
+  "classificacao": "Peso normal"
+}
+]

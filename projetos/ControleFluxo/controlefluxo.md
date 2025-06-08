@@ -132,9 +132,6 @@ public class ExemploFor {
 | `do...while` | Não                      | Sim                     | Quando precisa executar ao menos 1 vez |
 | `for`        | Sim                      | Não                     | Contador conhecido ou fixo             |
 
-Se quiser exemplos mais práticos (como somar números, validar entrada do usuário, etc.), posso montar também!
-
-
 ### 3. **Desvios (jumps ou saltos)**
 
 Alteram diretamente o fluxo de execução, **pulando ou interrompendo o código**.
