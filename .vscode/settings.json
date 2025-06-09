@@ -1,6 +1,7 @@
 {
     "java.project.referencedLibraries": [
-      "projetos/ModulosIMC/gson/lib/gson-2.10.1.jar"
+      "projetos/ModulosIMC/gson/lib/gson-2.10.1.jar",
+      "projetos/ModulosIMC/Test/lib/junit-platform-console-standalone-1.13.1.jar"
     ]
   }
   
