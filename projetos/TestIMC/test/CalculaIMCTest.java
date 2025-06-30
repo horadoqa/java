@@ -1,3 +1,6 @@
+// Esse código Java define uma classe de testes unitários chamada CalculaIMCTest, 
+// usando JUnit 5 para testar o comportamento da classe IMCCalculadora do seu sistema.
+
 package TestIMC.test;
 
 import static org.junit.jupiter.api.Assertions.*;

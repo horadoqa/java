@@ -1,3 +1,6 @@
+// Esse trecho de código Java define uma classe utilitária chamada IMCCalculadora, 
+// que serve para calcular e classificar o IMC (Índice de Massa Corporal) de uma pessoa.
+
 package TestIMC.console;
 
 public class IMCCalculadora {

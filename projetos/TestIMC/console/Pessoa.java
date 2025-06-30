@@ -1,3 +1,6 @@
+// Essa parte do código Java define uma classe chamada Pessoa, 
+// que serve para modelar uma pessoa com algumas características básicas.
+
 package TestIMC.console;
 
 public class Pessoa {

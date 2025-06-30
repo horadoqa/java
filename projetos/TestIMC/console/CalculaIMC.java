@@ -1,3 +1,7 @@
+// Esse código Java define a classe CalculaIMC com um método main, 
+// que representa o ponto de entrada do programa. 
+// Ele é o que você executa para rodar o sistema de cálculo de IMC no console.
+
 package TestIMC.console;
 
 import java.util.Scanner;
