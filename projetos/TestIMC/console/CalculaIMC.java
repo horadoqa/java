@@ -1,4 +1,4 @@
-package Test.console;
+package TestIMC.console;
 
 import java.util.Scanner;
 

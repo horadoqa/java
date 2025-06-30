@@ -1,4 +1,4 @@
-package Test.console;
+package TestIMC.console;
 
 public class IMCCalculadora {
     

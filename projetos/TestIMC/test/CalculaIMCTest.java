@@ -1,10 +1,10 @@
-package Test.test;
+package TestIMC.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-import Test.console.IMCCalculadora;
-import Test.console.Pessoa;
+import TestIMC.console.IMCCalculadora;
+import TestIMC.console.Pessoa;
 
 public class CalculaIMCTest {
 

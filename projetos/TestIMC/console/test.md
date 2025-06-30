@@ -10,7 +10,7 @@ Neste guia, você aprenderá a executar testes usando a biblioteca **JUnit** em 
 
 ### Estrutura de arquivos exemplo:
 
-Suponha que você tenha o seguinte conteúdo na pasta `ModulosIMC`:
+Suponha que você tenha o seguinte conteúdo na pasta `TestIMC`:
 
 ```bash
 .
